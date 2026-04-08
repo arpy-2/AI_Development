@@ -21,8 +21,4 @@
 ---
 
 # License: 
-© [Big School](https://thebigschool.com/)
-<br>
-© [Brais Moure](https://moure.dev/)
-<br>
-© [Paula González]()
+© [Big School](https://thebigschool.com/) | [Brais Moure](https://moure.dev/) | [Paula González]()
