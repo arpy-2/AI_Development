@@ -1,5 +1,9 @@
 [ EN - English ]
 
+# Information:
+ <p>All the documentation in this repository is in Spanish. If you don't understand the language, don't worry, use a translator to help you.</p>
+
+
 # Courses:
   1. AI Development
   2. Digital Marketing with AI
