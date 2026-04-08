@@ -24,4 +24,5 @@
 © [Big School](https://thebigschool.com/)
 <br>
 © [Brais Moure](https://moure.dev/)
+<br>
 © [Paula González]()
