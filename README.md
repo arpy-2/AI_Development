@@ -1,5 +1,8 @@
 [ ES - Español | Spanish ] 
-# Curso de Desarrollo con IA
+# Cursos de Desarrollo con IA
+  1.  Desarrollo con IA
+  2.  Marketing Digital con IA
+
 ---
 
 # Formación:
