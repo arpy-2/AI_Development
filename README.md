@@ -2,7 +2,8 @@
 # Cursos:
   1.  Desarrollo con IA
   2.  Marketing Digital con IA
-
+  3.  Ciberseguridad y Hacking Ético.
+     
 ---
 
 # Formación:
