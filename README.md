@@ -1,21 +1,3 @@
-[ ES - Español ]
-
-# Cursos:
-  1.  Desarrollo con IA 
-  2.  Marketing Digital con IA 
-  3.  Ciberseguridad y Hacking Ético.
-     
----
-
-# Formación:
-  ### - MÁSTERS
-  1. [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/)
-  2. [Máster en Ciberseguridad y Hacking Ético con Titulación Universitaria](https://thebigschool.com/master-ciberseguridad-hacking-etico/)
-  3. [Máster en Inteligencia Artificial con Titulación Universitaria](https://thebigschool.com/master-ia/)
-  4. [Máster Data Science con IA](https://thebigschool.com/master-data-science-con-ia/)
-  
----
-
 [ EN - English ]
 
 # Courses:
@@ -34,7 +16,7 @@
 
 ---
 
-# Licencia | License: 
+# License: 
 © [Big School](https://thebigschool.com/)
 <br>
 © [Brais Moure](https://moure.dev/)
