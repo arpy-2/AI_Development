@@ -1,7 +1,7 @@
 [ EN - English ]
 
 # Information:
- <p>All the documentation in this repository is in Spanish. If you don't understand the language, don't worry, use a translator to help you.</p>
+ <p>All the documentation in this repository is in Spanish (if you don't understand the language, don't worry, use a translator). I recommend reading this section to see if it interests you.</p>
 
 
 # Courses:
